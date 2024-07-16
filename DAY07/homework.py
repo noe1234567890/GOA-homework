@@ -1,0 +1,8 @@
+num1=int(input("please write a number "))
+num2=int(input("please write second number "))
+num3=int(input("please write third number "))
+num4=int(input("please write forth number "))
+print(num2//num4)
+print(num3+num1)
+print(num3-num4)
+print(num1*num2)

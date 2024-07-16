@@ -1,0 +1,6 @@
+mom=int(input("please write your moms age "))
+dad=int(input("please write your dads age "))
+your=int(input("please write your your age "))
+print(mom+20)
+print(dad+20)
+print(your+20)
