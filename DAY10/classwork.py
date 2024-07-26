@@ -1,0 +1,7 @@
+Name=input("please input you name ")
+surname=input("please input your surname ")
+age=input("please input your age ")
+mobile_number=input("please input your mobile number ")
+email=input("please input your email ")
+country=input("please input your country ")
+print(Name+" "+surname+" "+age+" "+mobile_number+" "+email+" "+country)
