@@ -9,7 +9,7 @@ enterage=7
 print(age1<=enterage)#თუ ნაკლებია ან ტოლია true არის
 age2=int(input("please input your age: "))
 print(age2>=18)#თუ მეტია ან ტოლია true არის
-money=int(input("please enter you balance: "))
+money=int(input("please enter your balance: "))
 loptop=500
 print(money>=loptop)#ეს მსგავსი მაგალითი ოღონდ მეორე ცვლადით
 print(True and True)#თუ ორივე true არის მაშინ გამოდის true
